@@ -1,0 +1,20 @@
+{
+  "name": "unit-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaghenimbale/Unit-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaghenimbale/Unit-test/issues"
+  },
+  "homepage": "https://github.com/Kaghenimbale/Unit-test#readme"
+}
