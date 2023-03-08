@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Kaghenimbale/Unit-test/issues"
   },
-  "homepage": "https://github.com/Kaghenimbale/Unit-test#readme"
+  "homepage": "https://github.com/Kaghenimbale/Unit-test#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
 }
